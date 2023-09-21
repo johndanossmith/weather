@@ -1,0 +1,13 @@
+Hi!
+I am particularly favourite of Metatrader and I have done many MT5 EA and Indicators for many projects.
+
+And additionally, I am very familiar to Deep learning apis such as Tensorflow, TensorflowLite, TfLearn, keras, pytorch, and fastai, mxnet.
+
+I have a good hands on working with Advanced R and Python and BI tools and technologies, AI, Big Data.
+I have quite a good knowledge of DL/ML Algorithm , have also developed Dashboards and Web Applications using flask/django.
+
+My area of expertise is building Image Processing, Speech Recognition and building models for food, healthcare and telecom sector, Classification/Prediction/Clustering, NLP and Chatbots.
+I have gained extensive experience in trading various platforms such as metatrader, tradingview and Motivewave.
+I have also developed a strong knowledge of technical analysis and risk management strategies, which has helped me to consistently achieve profitable trades.
+So I can implement any types of trading bot for you.
+Thank you.

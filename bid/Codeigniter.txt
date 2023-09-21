@@ -1,0 +1,13 @@
+Hello,
+I’m a senior fullstack web developer with with over 8 years of experience in PHP(Laravel, CodeIgniter), Javascript(React, Vue, jQuery), Database(MySQL, Oracle, MongoDB) and so on.
+As you know, the main idea of Codeigniter is MVC so here routing and database connection is very important.
+I am strong in algorithms and data structures and have solved a few complex real life problems at my work using algorithms.
+So I can fulfill your needs with high quality and fast time.
+If you recommend me, the results will prove my development ability and you will be satisfied with it.
+I would love to discuss this project in more detail to understand how I can best help you achieve your goals. Please feel free to contact me if you're interested in my services.
+I'm looking forward to hearing back from you.
+Thank you and I wish you the best of luck in everything you do.
+
+
+Hi Dear! You found out me very well. Your project is a great match with my skills I have developed script that generates scripts with Open AI API key and input prompt in DALL-E. 
+Please check "thepromptmarket.ai" Thanks.

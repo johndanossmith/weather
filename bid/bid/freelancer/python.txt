@@ -1,0 +1,26 @@
+Hello
+It's a pleasure to meet you. Can you please tell more about your suggestion?
+
+I am a python Expert with 6+ years of good experiences.
+Python, C++ , C#, Web dev are my strong skills.
+In particular, I 've some experiences related to Tensorflow, Keras : python machine learning packages.
+
+I have a nice expect that I will receive your positive response.
+
+Best regards,
+
+
+/// Email valid
+
+Hi, sir
+
+I wanna tell you about your project.
+
+Email validation is the process of verifying whether an email address is valid or not. It involves checking if the email address has the correct syntax and if the domain exists and is accepting emails.  
+
+Python-based email validation script uses Python programming language to perform email validation automatically. The script uses regular expressions to check the syntax of the email address and the DNS (Domain Name System) to verify the domain of the email address.  
+
+Python supports modules to perform this functions. 
+
+I wanna help you with this project.
+Regards.

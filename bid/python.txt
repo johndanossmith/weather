@@ -1,0 +1,48 @@
+Dear client!
+I have read your project.
+As a professional software developer have great experience and deep knowledge of Python and Machine Learning,
+I understood clearly what you need now.
+In more detail, I have powerful experiences in CNN, RNN and RCN algorithms to use classification images, OpenCV, OCR and machine learning platforms such as TensorFlow, Keras, and PyTorch.
+So I can complete your task in a short time with high quality.
+Thanks, Regards!!
+
+Dear client!
+I saw your job ad and am very excited about the opportunity to use my skills and experience to work on your project.
+I am a professional web scrapper and so I'm familiar with a  Selenium WebDriver.
+So I can complete your project within a short time.
+Here are some of my past products.
+https://github.com/SuperBluestar/python-scrapping
+https://github.com/SuperBluestar/ruby_scrapper
+I would like to discuss my qualifications and requirements for this job.
+I look forward to hearing from you.
+Thank you for considering my application.
+
+✔️ Expert in Web scraping with Python selenium, BS4 module... ✔️
+Hi, Thanks for the opportunity to bid on your project. I read your job description carefully.
+Also, I am an expert in Python with 5 years of experience.
+- scraping app
+https://drive.google.com/file/d/1zBqPLrAHOngeMGmB7kGq553hMrfxdGkw/view?usp=sharing
+- automation
+https://drive.google.com/file/d/10w0JUXaE3zgpOxevsIALC6KbIEyH5c7q/view?usp=sharing
+- automation and scraping
+https://drive.google.com/file/d/1aVM8T-QwRfIeT8bUux8vciQPSy_59JE0/view?usp=sharing
+So I will help you with my skills perfectly, I think.
+If you choose me, I will provide a good result in a short time and satisfy you fully.
+Please give me in touch and let's discuss more detail about your task via chat.
+Thanks and Good regards.
+
+Hi, Thanks for the opportunity to bid on your project. 
+I read your job description carefully.
+Also, I am an expert in Python with 5 years of experience.
+I scrapped many websites using selenium webdriver and automated website logic.
+And then I have experience in integrating google spreadsheet and python selenium.
+I'm going to tell you about my scraping project similiar to your project.
+In my project, I automated login process and uploading game details.
+Here, I bypassed recaptcha without api and game details were in google spreadsheet.
+I integrated google spreadsheet and selenium so I get details automatically from google spreadsheet. 
+And I can save scraped data into excel.
+I made executable file using pyinstaller. I attached my working file.
+I understand your project and I'm confident with your project.
+I'd like to work for you.
+I'll wait for your message. Thanks for your kind consideration.
+ 

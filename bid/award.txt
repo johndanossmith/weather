@@ -1,0 +1,22 @@
+---- Full stack
+I am writing to propose my web development services to you. I am a highly skilled developer with expertise in a variety of technologies, including MySQL, Node.js, PHP, Software Architecture and Full Stack Development
+and exceeds your expectations.
+
+One of the key strengths of my development approach is my ability to work with a variety of different technologies, from traditional server-side languages like PHP and Laravel to modern front-end frameworks like React JS and Angular JS. This enables me to create a website that is both visually stunning and highly functional, with features such as fast page loading, smooth navigation, and responsive design.
+
+In addition, my expertise in content management systems like WordPress, Shopify, and Drupal allows me to create a website that is easy to update and maintain. This means that you will have the flexibility to make changes to your website as your business evolves, without needing to rely on a developer to make those changes for you.
+
+I am confident that I can create a website that not only meets but exceeds your expectations and would love to discuss your project further. Please let me know if you would be interested in setting up a meeting to discuss this proposal in more detail.
+
+Thank you for your consideration.
+----
+
+----Metatrader
+Hello, Client
+I'm a metatrader expert.
+In the past, I developed many indicators and EAs in Motieve Wave, MT4/MT5.
+So I'm familiar with pinescript, mql4.mql5.
+I have also developed a strong knowledge of technical analysis and risk management strategies, which has helped me to consistently achieve profitable trades.
+So I can implement any types of trading bot for you.
+Thank you.
+----

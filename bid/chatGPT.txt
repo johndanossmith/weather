@@ -1,0 +1,50 @@
+⭕️Hello⭕️
+Hello, Client
+As a professional AI and ChatGPT system developer, I'm interested in your project.
+I have developed a chatbot using botpress and rasa framework.
+
+Experience:
+- Various NLP systems such as Q&A, text generation and ChatPDF using the OpenAI and Hugging Face model.
+- Website with ChatBot. It's for employee assistance. Langchain and pinecone are used.
+- Text2Sql system for data extraction from the database.
+- Financial data analysis system, especially stock market data with web scraping.
+- E-commerce website with Django and Laravel.
+
+All of the above systems have been done with Python, Tensorflow, and PyTorch.
+Please contact me for further discussion.
+Thanks.
+
+
+I have made many chat bots using rasa, botpress framework.
+If you want chat bots that utilize intergraded knowledge base and Chat GPT, the open ai key is necessary.
+If you provide me open ai key, I can create custom chat bots that utilize intergraded knowledge base and Chat GPT.
+
+
+Hello As a professional AI/NLP engineer, I have full experience in customized ChatGPT-3.
+In addition, I am also working with Shopify App Integration using an expertise platform, Payment Gateway, Firebase Cloning, Socket, Google API, MAP integration, Web RTC, chat base service, push notification, Analytics for improving business.
+my Working List:
+www.mychatbotgpt.com
+https://aiuniverse.web.app/
+Or if you don't like to rely on OpenAI priced API, I can do this development on local machine. All implementation will be based on frameworks what you prefer like React, Django, ASP.net etc.. I'd like to discuss about the project in detail. Thank you
+
+
+
+⭕️Hello⭕️
+First, I want to know if you can get openai key and pinecone key.
+Recently, Openai and Pinecone service is restricted in several areas of the world.
+As a professional AI and ChatGPT system developer, I'm interested in your project.
+
+Experience.
+- Various NLP systems such as Q&A, text generation and ChatPDF using the OpenAI and Hugging Face model.
+- No code ChatBot Builder like Landbot or Botpress integrated with ChatGPT. It's for employee assistance. Langchain, pinecone and Bubble.io are used.
+- ChatDoc system related with custom csv file.
+- Text2Sql system for data extraction from the database.
+- Financial data analysis system, especially stock market data with web scraping.
+- Auto translation system with OpenAI whisper model. From French voice to english voice and text.
+
+
+Especially I'm familiar with Langchain, Openai and Pinecone integration.
+A few days ago, I have finished project like yours.
+Please contact me for further discussion.
+Thanks.
+PS. I'm a member of OpenAI, Hugging Face and the Kaggle family.

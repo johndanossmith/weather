@@ -1,0 +1,9 @@
+Hello,
+I am a highly experienced Flutter Developer with expertise in design, Dart, and Flutter. 
+With over 5 years of experience in developing mobile applications for Android and iOS platforms, 
+I have successfully delivered numerous projects to satisfied clients.
+I am proficient in implementing clean architecture principles, optimizing queries, and 
+utilizing different state management approaches such as Provider, Riverpod, MobX, Cubit, and BLoC.
+So I'd like to discuss in more detail.
+I'm looking forward to hearing back from you.
+Thank you and I wish you the best of luck in everything you do.

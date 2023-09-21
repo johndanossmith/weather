@@ -1,0 +1,349 @@
+Offer a compliment
+
+1 You're a genius! 
+2 Brilliant! 
+3 Impressive! 
+4 That's amazing! 
+5 Good point. 
+6 That's an interesting idea. 
+7 I couldn't have done it without you. 
+8 You're definitely the expert here. 
+9 You know more about it than I do. 
+10 Inever would've thought of that. 
+11 How did you come up with that? 
+12 Where did you learn to do that? 
+13 You made an excellent point. 
+14 He’s a real people person. 
+15 She's a team player. 
+16 You're thinking outside the box; I like that.
+
+
+Be more likable
+
+17 Thank you. 
+18 Great question. 
+19 I understand. 
+20 How can I help? 
+21 I'm glad to be on your team. 
+22 Let's work together on this. 
+23 We can do it. 
+24 Sure I can! 
+25 It’s no problem at all.
+
+
+Build rapport with coworkers
+
+26 How long have you worked here? 
+27 How long is your commute? 
+28 Do you drive to work? 
+29 I hope you had a great trip. 
+30 Do you need any help? 
+31 We're definitely on the same page. 
+32 Did you have a good weekend? 
+33 What did you do over the weekend? 
+34 Where are you going on vacation? 
+35 Would you like to have lunch sometime? 
+36 I'm glad you're feeling better. 
+37 Did you enjoy the event?
+
+
+Let others know w going on 
+
+38 I'm going out for lunch. 
+39 I'll be back at [time]. 
+40 I'm leaving at [time]. 
+41 I'll be in at [time]. 
+42 The traffic was awful this morning.  
+43 She's on maternity leave. 
+44 He's on paternity leave. 
+45 She was laid off. 
+46 He's out sick. 
+47 She's on vacation.
+48 He's not in the office. 
+49 She's in a meeting. 
+50 He's with a customer. 
+51 She's been promoted. 
+52 He resigned yesterday.
+53 I'm not feeling well and can’t come in today. 
+54 I'm free after lunch. 
+55 There are snacks in the break room. 
+56 Somebody brought in a cake today. 
+57 I left the file on your desk.
+
+
+Find out what's going on
+
+58 What time does the meeting start? 
+59 When does the meeting end?
+60 May I see the report? 
+61 Where's the copy room?
+62 Where's the break room? 
+63 Where are the restrooms? 
+64 Will you be here tomorrow? 
+65 Who's in charge?
+
+
+Explain a delay
+
+66 The copier is jammed. 
+67 The copier is out oftoner. 
+68 Ineed an ink cartridge for my printer. 
+69 There's a problem with my computer. 
+70 The system is down right now. 
+71 Theinternet has been down for a half hour. 
+72 I can’t access my email. 
+73 I can't log in to the database. 
+75 The printer isn't working. 
+   The server is offline. 
+76 I have a lot on my plate right now. 
+77 I need more help. 
+78 I can do only one thing at a time. 
+79 I had to put that on the back burner. 
+80 We hit a snag. 
+81 We ran into a glitch. 
+82 There was a snafu.
+
+
+Serve customers effectively
+
+83 I'll be right with you. 
+84 Can Ihelp you? 
+85 Do you need any help? 
+86 What can I do for you? 
+87 All we have to do now is... . 
+88 Sorry to keep you waiting. 
+89 I'll be right back. 
+90 This invoice is past due. 
+91 Here's my card.
+92 Let me go through it with you. 
+93 Here's a fantastic alternative. 
+94 That's an excellent choice. 
+95 Enjoy your new [product]. 
+96 Are you looking for anything in particular? 
+97 I highly recommend [product]. 
+98 You mightlike... . 
+99 In that case, you might prefer... .
+
+
+Interrupt politely
+
+100 Just a minute: ... . 
+101 May I have a word? 
+102 Excuse me for interrupting, but.... 
+103 Sorry, but I have to say that... 
+104 If I may say so, ... . 
+105 I didn’t catch that.
+
+
+Offer advice
+
+106 Have you considered ... ? 
+107 You could try .... 
+108 Have you tried... ? 
+109 You might .... 
+110 Inthe past,___ worked for me. 
+111 May make a suggestion? 
+112 Why don't you ... ?
+113 How about 
+114 What about 
+115 ld start by .... 
+116 The tutorial may offer a solution. 
+117 You could click Help and search for an answer. 
+118 You could chat with the help desk. 
+119 We should ..... 
+120 Why not ...? 
+
+
+Get help
+
+121 Do you have any ideas? 
+122 How can I fix this? 
+123 How would you approach the problem? 
+124 What would you do if you were me? 
+125 What should I do now? 
+126 Are there any written instructions? 
+127 Who can help me? 
+128 Is there a manual?
+
+
+Agree with somebody
+
+129 That's how I see it too.  
+130 I feel the same way. 
+131 I have to agree with [name]. 
+132 I like [name]'s idea. 
+133 Exactly!
+134 I second that.
+135 I couldn't agree more. 
+136 I couldn't have said it better myself. 
+137 Well put. 
+
+
+Disagree with somebody
+
+138 That may be true, but... . 
+139 I'm afraid I don’t quite agree. 
+140 I wouldn't say that. 
+141 I'm notso sure about that. 
+142 Do you really think so? 
+143 I'd goin a different direction.
+144 That might not be the best thing to do. 
+145 Do you have any other ideas? 
+146 There might be repercussions to that. 
+147 It sounds good on the surface, but... . 
+148 We probably should go about it a different way.
+
+
+Give your opinion
+
+149 I feel that... . 
+150 In my opinion, .... 
+151 The way I seeit,.... 
+152 We should probably... . 
+153 If you ask me... . 
+154 I think... 
+155 I believe... 
+156 For what it’s worth, ... . 
+157 Here's what I think: ... . 
+158 The best thing to dois... . 
+159 If you don’t mind my saying so, ... .
+
+
+Handle complaints
+
+160 Thanks for letting us know. 
+161 Thank you for pointing that out. 
+162 I'm sorry for any inconvenience. 
+163 We're sorry about that. 
+164 Please accept our apologies. 
+165 I'll let my manager know. 
+166 I'm going to see how we can make this better for you.
+167 Here’s a coupon to make up for your trouble. 
+168 We'll sort that out for you right away. 
+169 I absolutely agree. 
+170 I appreciate your letting me know about that. 
+171 I'm glad you told us. 
+172 Iunderstand your frustration.
+
+
+Get promoted
+
+173 I'll take care of that. 
+174 I'm sure there's a solution. 
+175 It’s no big deal. 
+176 Anytime!
+177 I'll see you tomorrow at the office party. 
+178 Can I participate in this project? 
+179 I'll make that a priority. 
+180 I'll be happy to pitch in. 
+181 I'd like to volunteer.
+
+
+Start an email
+
+182 How have you been? 
+183 How are you? 
+184 I hope all is well with you. 
+185 Let me introduce myself. 
+186 I'd like to follow up on.... 
+187 It was great to see you on [day].
+188 lenjoyed talking with you at [event]. 
+189 It was a pleasure to meet you at [place]. 
+190 I hope this message finds you well. 
+191 Thank you for sharing the good news. 
+192 l apologize for the delay in my reply.
+
+
+Write clear emails
+
+193 I'll send you a PDF. 
+194 See the attached file for reference. 
+195 Here's the report we talked about. 
+196 Please note that... . 
+197 Please sign the attached form and return it by [date].
+198 Here's the document you requested. 
+199 I'm attaching a file for your review. 
+200 You can find more information at [website]. 
+201 I've indicated the changes with [bold font / yellow highlights / underlining).
+
+
+End an email
+
+202 Thank you, 
+203 Regards, 
+204 Sincerely, 
+205 See you soon! 
+206 Thanks again!
+207 I'll follow up with you in [number] days. 
+208 I look forward to hearing from you. 
+209 I'll let you know as soon as I hear anything more. 
+210 Let me talk to [name] and get back to you. 
+211 Have a great day!
+
+
+Start a meeting
+
+212 We'd like to welcome you to.... 
+213 Today, we're going to talk about 
+214 Let's open the discussion with... . 
+215 Now, let's get down to business. 
+216 Let's go over today’s agenda. 
+217 We're here to decide .... 
+218 Thank you for joining us today.
+
+
+End a meeting
+
+219 I'd like to thank you all for your time. 
+220 We accomplished a lot today. 
+221 I'll have my assistant send you the minutes. 
+222 We'll meet again next week at this same time. 
+223 This has been a productive meeting. 
+224 Thank you all for your attention.
+
+
+Emphasize a point
+
+225 My main concern is... 
+226 Id like to emphasize that .... 
+227 May I make a point? 
+228 This is an important point. 
+229 Keep in mind that ....
+230 As I've said, .... 
+231 Id like to point out that... . 
+232 Let's not forget that... . 
+233 We need to focus on ... .
+
+
+Resolve a conflict
+
+234 think we can work this out. 
+235 I hear what you're saying, and .... 
+236 I think we can find a compromise. 
+237 Isee what you mean. 
+238 There's no need to apologize. 
+239 Let’stake a break and calm down. 
+240 Should we get a third opinion? 
+241 Just hear me out.
+242 I understand where you're coming from. 
+243 I think you may have misinterpreted that. 
+244 Please don't take that the wrong way. 
+245 I'm sorry we got off on the wrong foot. 
+246 Maybe we can find somebody to mediate for us. 
+247 I don't think we have all the information. 
+248 I believe we can turn this into a win-win situation. 
+249 I'm sure we can reach an agreement. 
+250 We should revisit this at another time.
+
+
+
+
+
+
+
+
+
+
+
+
+
